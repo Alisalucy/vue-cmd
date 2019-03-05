@@ -1,0 +1,8 @@
+{
+    "status": 0,
+    "data": [
+        {"id":1,"imgs":"static/1.jpg"},
+        {"id":2,"imgs":"static/2.jpg"},
+        {"id":3,"imgs":"static/3.jpg"}
+    ]
+}
